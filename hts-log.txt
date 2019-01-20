@@ -1,0 +1,21 @@
+HTTrack3.49-2 launched on Sun, 20 Jan 2019 14:48:50 at https://dokari.co.id
+(winhttrack https://dokari.co.id -W -O "/home/rifky/websites/dokari" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:48:53	Warning: 	Note: due to https://dokari.co.id remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:49:45	Error: 	"Method Not Allowed" (405) at link https://dokari.co.id/xmlrpc.php (from https://dokari.co.id/)
+14:51:44	Warning: 	Note: due to dokari.co.id remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+14:51:44	Error: 	"Not Found" (404) at link dokari.co.id/wp-content/themes/showcase-pro/css/images/bx_loader.gif (from dokari.co.id/wp-content/cache/wpfc-minified/c16f71ece91d518912f60200f0d7c460/1517225960index.css)
+14:51:54	Error: 	"Error when decompressing" (-1) at link https://dokari.co.id/harga-tiket-2 (from https://dokari.co.id/amp/)
+14:52:22	Warning: 	Found for https://dokari.co.id/post/category/uncategorized/amp/
+14:52:22	Warning: 	File has moved from https://dokari.co.id/post/category/uncategorized/amp/ to https://dokari.co.id/post/category/uncategorized
+14:52:26	Warning: 	Found for https://dokari.co.id/post/category/travel-lampung/amp/
+14:52:26	Warning: 	File has moved from https://dokari.co.id/post/category/travel-lampung/amp/ to https://dokari.co.id/post/category/travel-lampung
+14:52:31	Warning: 	Link https://dokari.co.id/berita/amp/page/2/ not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 42 seconds : 209 links scanned, 202 files written (10893898 bytes overall) [9815155 bytes received at 44212 bytes/sec], 1602898 bytes transferred using HTTP compression in 66 files, ratio 26%, 2.2 requests per connection
+(3 errors, 7 warnings, 0 messages)
